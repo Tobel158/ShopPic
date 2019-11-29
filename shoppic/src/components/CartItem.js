@@ -20,7 +20,7 @@ function CartItem({item}) {
             </i>
             
             <img src={item.url} width="130px" />
-            <p>$5.99</p>
+            <p>$59.99</p>
         </div>
     )
 }
